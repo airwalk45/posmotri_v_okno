@@ -77,8 +77,8 @@ ol {
   display: grid;
   grid-template-columns: repeat(3, max-content);
   justify-content: space-between;
-  align-items: start;
   margin-bottom: 1px;
+  align-items: end;
 }
 
 .search-form__fieldset {
